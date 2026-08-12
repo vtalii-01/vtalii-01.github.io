@@ -1,3 +1,3 @@
-# AdSense Ad Review Inspector Privacy Policy
+# Ad Review Inspector for Google AdSense(TM) Privacy Policy
 
-This repository hosts the public privacy policy for the AdSense Ad Review Inspector Chrome extension.
+This repository hosts the public privacy policy for the Ad Review Inspector for Google AdSense(TM) Chrome extension.
